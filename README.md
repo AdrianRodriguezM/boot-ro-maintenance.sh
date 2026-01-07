@@ -50,4 +50,4 @@ Must be executed as root.
 ## Installation
 
 ```bash
-sudo install -m 700 BOOT-RO-MAINTENANCE.SH /usr/local/sbin/boot-ro-maintenance
+sudo install -m 700 boot-ro-maintenance.sh /usr/local/sbin/boot-ro-maintenance
